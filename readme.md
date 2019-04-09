@@ -1,17 +1,17 @@
 
-### Import Project 
+# Import Project 
 
-# 1. Clone Repository
+## 1. Clone Repository
 <code>git clone https://github.com/SanchaFe/KFZ-APP.git</code>
 
-# 2. Change directory
+## 2. Change directory
 <code>cd KFZ-APP</code>
 
-# 3. Run Composer install to get all packages
+## 3. Run Composer install to get all packages
 <code>composer install</code>
 
-# 4. Customize your .env File
+## 4. Customize your .env File
 
-### Have fun !!!
+## Have fun !!!
 
 
