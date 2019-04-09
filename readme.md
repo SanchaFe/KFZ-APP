@@ -7,7 +7,7 @@
 ## 2. Change directory
 <code>cd KFZ-APP</code>
 
-## 3. Run Composer install to get all packages
+## 3. Run composer install to get all packages
 <code>composer install</code>
 
 ## 4. Customize your .env File
